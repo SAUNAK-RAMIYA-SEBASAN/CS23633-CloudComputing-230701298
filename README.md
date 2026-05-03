@@ -1,6 +1,10 @@
+<div align="center">
+
 # Solace – Project Artifacts
 
 [![Project](https://img.shields.io/badge/Project-Solace-8A2BE2?logo=github&logoColor=white)](https://github.com/SAUNAK-RAMIYA-SEBASAN/Solace)
+
+</div>
 
 ---
 
