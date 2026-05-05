@@ -16,7 +16,7 @@
 ├── Report
 │   └── 230701298-Solace-Project-Report.pdf
 └── LinkedInCert
-└── 230701298-CloudArch-Cert.pdf
+    └── 230701298-CloudArch-Cert.pdf
 
 ```
 
